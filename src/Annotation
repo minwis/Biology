@@ -1,0 +1,14 @@
+DihybridCross:
+    What it will do is print "the number of all cases possible(4^x)", "all the cases possible",
+    "Phenotypic Ratio", and "Genotypic Ratio" when the Sperm genotype and Egg genotype are given
+     using Additive Model.
+
+//Save alleles in String array(it would be eassier to determine genotype
+// and if add all digits in the genotype, we can get the phenotype
+
+
+
+BasicMendelianCross:
+    What it will do is printing "the number of all cases possible", "all the cases possible", "Phenotypic Ratio"
+    , and "Genotypic Ratio" when the Sperm genotype and Egg genotype are given.
+
